@@ -1,0 +1,19 @@
+{
+  "name": "dictionary",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bharath590/dictionary.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bharath590/dictionary/issues"
+  },
+  "homepage": "https://github.com/bharath590/dictionary#readme"
+}
