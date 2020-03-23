@@ -1,8 +1,8 @@
 {
-  "name": "dictionary",
+  "name": "dtool",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Command Line Dictionary Tool",
+  "main": "./dict.js",
   "bin": {
     "./dict": "./dict.js"
   },
@@ -13,7 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/bharath590/dictionary.git"
   },
-  "author": "",
+  "author": "Om Prakash",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/bharath590/dictionary/issues"
